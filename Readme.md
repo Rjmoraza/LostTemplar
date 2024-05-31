@@ -8,7 +8,7 @@ Elaborado por: Rodolfo Mora-Zamora.
 
 - **Género:** Platformer 2D
 - **Engine:** Unity 2022.3.27f1
-- **Disponible en: ** https://ceibasoft.itch.io/lost-templar 
+- **Disponible en:** https://ceibasoft.itch.io/lost-templar 
 - **Código disponible en:** https://github.com/Rjmoraza/LostTemplar 
 
 El juego consiste en un único nivel de plataformas que incluye tres tipos de enemigos con diferentes comportamientos. El nivel se gana llegando al final y eliminando a los enemigos de la última arena.
